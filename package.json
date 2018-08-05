@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "version": "",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "colors": "^1.3.1"
+  }
+}
